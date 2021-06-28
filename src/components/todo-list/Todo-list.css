@@ -1,0 +1,6 @@
+.Todo-list li {
+  border: 1px solid teal;
+  margin: 10px;
+  padding: 1rem;
+  text-align: center;
+}
